@@ -1,5 +1,5 @@
 # [GitHub Stats Visualization](https://github.com/brunolimame/github-stats)
-
+-
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
